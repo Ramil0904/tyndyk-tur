@@ -10,7 +10,7 @@
 .headernav {
     display: flex;
     gap: 36px;
-    margin-left: 160px;
+    margin-left: 10px;
 }
 .headernav a {
     color: #333;
